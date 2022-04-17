@@ -1,4 +1,4 @@
-# Ctrl-Shift-Eye
+# Ctrl+Shift+Eye
 logo
 <br>
 Ctrl-Shift-Eye is a desktop app that allows users to control their cursor using only their eyes. 

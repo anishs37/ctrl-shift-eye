@@ -25,4 +25,3 @@ One feature that we wanted to add into this project is allowing the user to be a
 We plan on making our gaze tracking model more accurate by researching more model frameworks. Additionally, we would like to train our model on a dataset where the coordinates returned by the model could be more easily translated and personalized to the user's screen size.
 
 Furthermore, we would like to be able to implement verbal commands into the application, so that it is easier for the user to navigate without having to redirect to the app all the time.
-## License

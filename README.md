@@ -21,7 +21,7 @@ One feature that we wanted to add into this project is allowing the user to be a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
-<br>
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=green)
 ## What's next for Ctrl+Shift+Eye?
 We plan on making our gaze tracking model more accurate by researching more model frameworks. Additionally, we would like to train our model on a dataset where the coordinates returned by the model could be more easily translated and personalized to the user's screen size.
 

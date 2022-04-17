@@ -8,7 +8,6 @@ According to a study by the Christopher & Dana Reeve Foundation, nearly 1 in 50 
 Multiple frameworks, languages, and platforms were utilized to build the application. Python, and specifically, TensorFlow and Keras, were utilized to build the different machine learning models (segmentation and gaze tracking). On the application front, Electron, along with Node.js, were used to build the application. We also implemented numerous APIs in order to provide as many high-quality features as possible, including RobotJS and Electron Virtual Keyboard. We also used React, Bulma, and custom CSS to build the website. Finally, we used GitHub to store and collaborate on our project code.
 ## Challenges we overcame
 One feature that we wanted to add into this project is allowing the user to be able to type with their voice. Unfortunately, we were not able to implement this due to problems with live audio transcription that we did not think would be feasible to solve in the allotted 24 hours. However, as an alternative, we were able to pull up the on screen keyboard when the user is clicking a text-view, which would still be able to allow the user to type.
-## Demo
 ## Installation
 1. Go to our website: https://anishs37.github.io/cse-website/
 2. Click the "Download" button in the top right corner and select the operating system that describes your machine.

@@ -1,0 +1,6 @@
+[submodule "cse-application"]
+	path = cse-application
+	url = https://github.com/anishs37/cse-application
+[submodule "cse-website"]
+	path = cse-website
+	url = https://github.com/anishs37/cse-website

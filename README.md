@@ -1,5 +1,5 @@
 # Ctrl+Shift+Eye
-![alt text](https://anishs37.github.io/cse-website/static/media/logo128x.6cda3e83b3794444c9cb.png)
+![eye logo](https://anishs37.github.io/cse-website/static/media/logo128x.6cda3e83b3794444c9cb.png)
 <br>
 Ctrl-Shift-Eye is a desktop app that allows users to control their cursor using only their eyes. 
 ## Why did we build it?
